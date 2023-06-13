@@ -16,7 +16,7 @@ Here you can find a great part of my work. Feel free to contribute/star!
 
 + [`fortran.rs`](https://github.com/xavier2p/fortran.rs): A `Fortran90` interpreter, written in `Rust`.
 + [`gitsync`](https://github.com/xavier2p/gitsync): A tool to use `git` in CLI with ease. Written in `Rust`.
-+ [`helix`](https://github.com/helix-medical): A complete patients management system, built for Osteopaths. More infos on [helix-medical.github.io](https://helix-medical.github.io). Feel free to contribute!
++ [`helix`](https://github.com/helix-medical): A complete patients management system, built for Osteopaths. More infos on the [official website](https://helix-medical.github.io).
 
 ## Personal Repos
 + [`infra-as-code`](https://github.com/xavier2p/infra-as-code): My personal homelab infrastructure, automated with `Terraform` and `Ansible`.
@@ -24,17 +24,17 @@ Here you can find a great part of my work. Feel free to contribute/star!
 
 You can find also some repositories with school work in it, made during my education.
 
-## Skills
-### Independent Practice
+<details>
+  <summary><h2>Skills</h2></summary>
+  
+*Sorted by experience with.*
+  
+  <img src="https://skillicons.dev/icons?i=py,md,ts,linux,raspberrypi,git,github,react,docker,rust,vim,bash,c,ansible,fortran&theme=dark" />
+</details>
 
-![My Skills](https://skillicons.dev/icons?i=py,md,ts,linux,git,rust,vim,react,raspberrypi,github&theme=dark&perline=5)
-
-### Learning in progress 
-
-![My Skills](https://skillicons.dev/icons?i=bash,c,docker,ansible,fortran&theme=dark)
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xavier2p&show_icons=true&rank_icon=github&theme=onedark" />
-</div>
+<details>
+  <summary><h2>Stats</h2></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=xavier2p&show_icons=true&rank_icon=github&theme=onedark" />
+  </div>
+</details>
