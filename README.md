@@ -4,7 +4,7 @@
 
 # Welcome on my Github!
 
-[![](https://img.shields.io/badge/follow%20me-github-orange?style=for-the-badge&logo=github)]()
+[![Follow Me!](https://img.shields.io/badge/follow%20me-github-orange?style=for-the-badge&logo=github)](https://github.com/xavier2p)
 
 Here you can find a great part of my work. Feel free to contribute/star!
 
@@ -20,6 +20,14 @@ Here you can find a great part of my work. Feel free to contribute/star!
 
 You can find also some repositories with school work in it, made during my education.
 
+## Skills
+### Independent Practice
+
+![My Skills](https://skillicons.dev/icons?i=py,md,ts,linux,git,rust,vim,react,raspberrypi,github&theme=dark&perline=5)
+
+### Learning in progress 
+
+![My Skills](https://skillicons.dev/icons?i=bash,c,docker,ansible,fortran&theme=dark)
 
 ## Stats
 
