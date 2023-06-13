@@ -1,4 +1,8 @@
-<h1 align="center"><img src="src/logo.png"></img></h1>
+<img src="src/logo.png"></img>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xavier2p&show_icons=true&rank_icon=github&theme=onedark" />
+</div>
+
 <!--
 **Xavier2p/xavier2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
