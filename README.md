@@ -1,10 +1,14 @@
+<!--
 <div align="center">
   <img src="src/logo.png" />
 </div>
+-->
 
 # Welcome on my Github!
 
+<!--
 [![Follow Me!](https://img.shields.io/badge/follow%20me-github-orange?style=for-the-badge&logo=github)](https://github.com/xavier2p)
+-->
 
 Here you can find a great part of my work. Feel free to contribute/star!
 
