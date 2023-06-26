@@ -21,6 +21,7 @@ Here you can find a great part of my work. Feel free to contribute/star!
 ## Personal Repos
 + [`infra-as-code`](https://github.com/xavier2p/infra-as-code): My personal homelab infrastructure, automated with `Terraform` and `Ansible`.
 + [`dotfiles`](https://github.com/xavier2p/dotfiles): My dotfiles, to make all UNIX system mine in seconds.
++ [`system`](https://github.com/xavier2p/system): My Infrastructure as Nix, for all my hosts. Uses nix-darwin, nix and NixOS.
 
 You can find also some repositories with school work in it, made during my education.
 
