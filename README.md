@@ -19,10 +19,14 @@ Here you can find a great part of my work. Feel free to contribute/star!
 + [`helix`](https://github.com/helix-medical): A complete patients management system, built for Osteopaths. More infos on the [official website](https://helix-medical.github.io).
 + [`surreality`](https://github.com/xavier2p/surreality): A NewGen Portfolio, used to back my personal pics website. Written in `Rust` X `TypeScript`.
 
-## Personal Repos
+## `/forge`
+
+The `/forge` is my lab, my IT infrastructure. It's the place where I work and enjoy free time.
+
 + [`infra-as-code`](https://github.com/xavier2p/infra-as-code): My personal homelab infrastructure, automated with `Terraform` and `Ansible`.
 + [`dotfiles`](https://github.com/xavier2p/dotfiles): My dotfiles, to make all UNIX system mine in seconds.
 + [`system`](https://github.com/xavier2p/system): My Infrastructure as Nix, for all my hosts. Uses nix-darwin, nix and NixOS.
++ [`wiki`](https://github.com/Xavier2p/wiki): My personal internal documentation, built with `mdBook` and `Markdown`.
 
 You can find also some repositories with school work in it, made during my education.
 
