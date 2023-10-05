@@ -16,7 +16,7 @@ Here you can find a great part of my work. Feel free to contribute/star!
 
 + [`fortran.rs`](https://github.com/xavier2p/fortran.rs): A `Fortran90` interpreter, written in `Rust`.
 + [`gitsync`](https://github.com/xavier2p/gitsync): A tool to use `git` in CLI with ease. Written in `Rust`.
-+ [`helix`](https://github.com/helix-medical): A complete patients management system, built for Osteopaths. More infos on the [official website](https://helix-medical.github.io).
++ [`helix`](https://github.com/Xavier2p/helix): A complete patients management system, built for Osteopaths. More infos on the [official website](https://helix-medical.github.io).
 + [`surreality`](https://github.com/xavier2p/surreality): A NewGen Portfolio, used to back my personal pics website. Written in `Rust` X `TypeScript`.
 
 ## `/forge`
